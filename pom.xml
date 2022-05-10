@@ -65,7 +65,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>it/hryntsaliou/IoTWebServer/IoTWebServerApplication.java</mainClass>
+                            <mainClass>src/main/java/it/hryntsaliou/IoTWebServer/IoTWebServerApplication.java</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
